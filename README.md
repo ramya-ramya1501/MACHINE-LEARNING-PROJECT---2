@@ -1,2 +1,2 @@
 # MACHINE-LEARNING-PROJECT---2
-Predictive Modeling of Fast Food Sales Using Regression Techniques
+Predictive Modeling of Social Media Addiction Levels Among Students Using Regression Techniques
